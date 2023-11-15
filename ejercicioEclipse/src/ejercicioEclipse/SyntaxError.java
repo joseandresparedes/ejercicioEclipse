@@ -4,7 +4,7 @@ import java.util.*;
 
 public class SyntaxError {
     public static void printString() {
-	    String str = "Muy bien";
+	    String str = "Hola que tal/nMe has escuchado?/nMuy bien";
 	    Random rand = new Random();
 	    for (int i = 0; i < 3; i++){
 	        System.out.println(str);		
